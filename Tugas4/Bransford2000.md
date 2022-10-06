@@ -58,7 +58,7 @@ sepanjang hayat.
 
 ---
 
-# **FOKUS: ORANG, SEKOLAH, DAN POTENSI UNTUK BELAJAR**
+## FOCUS:  PEOPLE, SCHOOLS, AND THEPOTENTIAL TO LEARN
 
 Literatur ilmiah tentang kognisi, pembelajaran, pengembangan, budaya, dan otak sangat
 banyak. Tiga keputusan pengorganisasian, yang dibuat cukup awal dalam pekerjaan komite, memberikan kerangka kerja untuk penelitian kami dan tercermin dalam isi buku
@@ -76,7 +76,7 @@ pelajaran penting.
 
 ---
 
-# **PENGEMBANGAN ILMU PEMBELAJARAN**
+## PENGEMBANGAN ILMU PEMBELAJARAN
 Laporan ini didasarkan pada penelitian yang dimulai pada bagian akhir abad kesembilan belas waktu dalam sejarah di mana upaya sistematis dilakukan untuk mempelajari pikiran manusia melalui metode ilmiah. Sebelum itu, studi semacam itu adalah bidang filsafat dan
 teologi. Beberapa karya awal yang paling berpengaruh dilakukan di Leipzig di laboratorium Wilhelm Wundt, yang bersama rekan-rekannya mencoba membuat kesadaran manusia menjadi analisis yang tepat terutama dengan meminta subjek untuk merenungkan proses pemikiran mereka melalui introspeksi.
 
